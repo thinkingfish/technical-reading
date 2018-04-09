@@ -1,2 +1,2 @@
 # technical-reading
-A list of things I have read.
+A list of things I am reading or have read.
